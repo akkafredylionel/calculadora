@@ -1,0 +1,24 @@
+
+#anchorPane{
+     -fx-background-color: #CCF2FF;
+     
+}
+
+#pantalla{
+    -fx-background-radius: 10;
+}
+
+.button{
+    -fx-background-color:darkseagreen;
+    -fx-background-radius: 18;
+}
+
+.button:hover{
+    -fx-background-color: #07f7f7;
+    -fx-background-radius: 50;
+}
+
+.button:pressed{
+    -fx-background-color:#239c9c;
+    -fx-background-radius: 15 ;
+}
